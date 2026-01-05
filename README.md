@@ -9,8 +9,8 @@ Map synaptic protein data with Constellation. Constellation is a desktop GUI for
 ## Features
 
 - **Data Inputs**
-  - Select a **Data Folder** (your exported analysis file from Imaris, find template excel file in template folder)
-  - Select an **Expansion Factor** Excel file (`.xlsx`, find template excel file in template folder)
+  - Select a **Data Folder** (your exported analysis file from Imaris (`.xlsx` .csv), find template excel file in template folder)
+  - Select an **Expansion Factor** Excel file (`.xlsx` .csv, find template excel file in template folder)
 
 - **Analyses (Toggle On/Off)**
   - **Alignment analysis**
