@@ -1,4 +1,5 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2a8a3bf3-b213-48ac-a9ff-9240f1eb659b" />
+<img width="1223" height="706" alt="image" src="https://github.com/user-attachments/assets/66f2fb46-fb01-4906-8360-197d6abd2b8f" />
+
 
 
 Constellation is a desktop GUI for running proteome / protein-distance analyses from a folder of exported analysis files plus an expansion factor spreadsheet. It provides a clean, fullscreen interface with optional Alignment, Angle, and Enrichment analyses.
