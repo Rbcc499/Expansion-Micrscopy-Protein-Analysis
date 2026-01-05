@@ -1,4 +1,3 @@
-# Constellation (Proteome Analysis GUI)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2a8a3bf3-b213-48ac-a9ff-9240f1eb659b" />
 
 
