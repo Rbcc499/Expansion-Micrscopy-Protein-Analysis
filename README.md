@@ -38,8 +38,4 @@ Constellation is a desktop GUI for running proteome & protein-distance analyses 
   - For Angle Analysis: Assign which proteins will be included in the angle analysis. Then put the angle threshold (degrees).
   
 
-- **UX**
-  - Fullscreen by default
-  - Press **Esc** to exit fullscreen, **F11** to toggle fullscreen
-
-*This is an expansion on the original code obtained from: https://github.com/SiddiquiLab/Padmanabhan-et-al.-/blob/main/README.md Imaris and Huygens worksheets can be found there.
+*This is an expansion on the original code obtained from: https://github.com/SiddiquiLab/Padmanabhan-et-al.-/blob/main/README.md Imaris and Huygens workflows can be found there.
