@@ -31,7 +31,7 @@
 ## Steps for Use 
   **1)**  Upload data folder containing Imaris derived excel files only.* Headers should be as per supplied template. Constellation will load excel files and read protein names. <br />
   **2)**  Upload expansion factor excel Headers should be a per supplied expansion_factor_template file. <br />
-  **3)**  Select the parameters you require for your analysis. <br />
+  **3)**  Select the parameters you require for your analysis. <br /> <br />
     - For Alignment Analysis: Select the location of each protein, then select which protein pair that will have the longest distance. <br />
     - For Angle Analysis: Assign which proteins will be included in the angle analysis. Then put the angle threshold (degrees). <br />
   **4)**  Click run analysis. Results will be saved in the data folder you uploaded. <br />
